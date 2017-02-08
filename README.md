@@ -1,4 +1,4 @@
-# QUAKUP
+# QUARUP
 
 Plataform for hackerspaces
 
