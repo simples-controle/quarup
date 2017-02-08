@@ -1,0 +1,2 @@
+# quarup
+Plataform for hackerspaces
